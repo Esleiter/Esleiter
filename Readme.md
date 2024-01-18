@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/6ZSIyxazaqlCrCuRMB/giphy.gif" width="100"/> welcome to my github!
+# <img src="https://media.giphy.com/media/6ZSIyxazaqlCrCuRMB/giphy.gif" width="20"/> Welcome to my github!
 
 <!--![Banner](banner.png)-->
 
