@@ -29,7 +29,7 @@ A space where you can explore a portion of my programming and coding journey!
 <!--![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)-->
 <!--![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)-->
 
-## Repository statistics
+<!-- ## Repository statistics
 
-<!--![Esleiter GitHub stats](https://github-readme-stats.vercel.app/api?username=esleiter&show_icons=true&theme=dark)-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esleiter&layout=compact&theme=dark)
+![Esleiter GitHub stats](https://github-readme-stats.vercel.app/api?username=esleiter&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esleiter&layout=compact&theme=dark)-->
